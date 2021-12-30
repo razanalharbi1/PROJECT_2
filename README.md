@@ -26,6 +26,13 @@ The web app includes two visualizations using data from the SQLite database.
 
 # screenshots 
 
+![2021-12-30 (5)](https://user-images.githubusercontent.com/93232920/147765062-fbce1f82-aa46-4cb1-ba78-f01a19b03683.png)
+
+![2021-12-27 (2)](https://user-images.githubusercontent.com/93232920/147765082-1e57d5e9-b8ba-486e-96c2-11e03511b296.png)
+
+![2021-12-30 (6)](https://user-images.githubusercontent.com/93232920/147765066-f10810a3-c0ea-4fdb-b27d-7c195de80abd.png)
+
+
 # Credits and Acknowledgements
 
 Thanks Udacity
